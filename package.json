@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ndjamenamarmon/vue-colorpicker.git"
+    "url": "git+https://github.com/blockchaindev91/vue-colorpicker.git"
   },
   "keywords": [
     "vue.js",
@@ -17,10 +17,10 @@
     "picker",
     "colorpicker"
   ],
-  "author": "Jamena McInteer (http://webdevabq.github.io)",
+  "author": "blockchaindev91 (http://blockchaindev91.github.io)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/ndjamenamarmon/vue-colorpicker/issues"
+    "url": "https://github.com/blockchaindev91/vue-colorpicker/issues"
   },
-  "homepage": "https://github.com/ndjamenamarmon/vue-colorpicker#readme"
+  "homepage": "https://github.com/blockchaindev91/vue-colorpicker#readme"
 }

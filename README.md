@@ -1,9 +1,6 @@
 # vue-colorpicker
 Color picker Vue.js component.
 
-## Demo
-demo: [https://codepen.io/nmcinteer/pen/WOjwKX](https://codepen.io/nmcinteer/pen/WOjwKX)
-
 ## Installation
 ### Via npm:
 `npm install vue-colorpicker`
